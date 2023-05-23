@@ -1,0 +1,11 @@
+Bit manipulation is the act of algorithmically manipulating bits or other pieces of data shorter than a word. Computer programming tasks that require bit manipulation include low-level device control, error detection and correction algorithms, data compression, encryption algorithms, and optimization12.
+
+Here are some examples of bitwise algorithms:
+
+To check if a number is even or odd.
+To check if a number is a power of 2.
+To swap two numbers without using a temporary variable.
+To find the maximum or minimum of two numbers without using conditional statements.
+To reverse the bits of an integer.
+To count the number of set bits in an integer.
+To multiply or divide by 2^n using bit shifting
