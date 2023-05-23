@@ -16,3 +16,5 @@ In computers, decimal numbers are represented using the binary number system. Th
 
 For example, the decimal number 10 is represented as 1010 in binary
 
+
+![Capture](https://github.com/ArsalanAhsan/Data_Structure-Notes/assets/49119148/aa6b017e-a300-49e9-bc7c-b9b10cd9d682)
