@@ -2,13 +2,13 @@ Bit manipulation is the act of algorithmically manipulating bits or other pieces
 
 Here are some examples of bitwise algorithms:
 
-To check if a number is even or odd.
-To check if a number is a power of 2.
-To swap two numbers without using a temporary variable.
-To find the maximum or minimum of two numbers without using conditional statements.
-To reverse the bits of an integer.
-To count the number of set bits in an integer.
-To multiply or divide by 2^n using bit shifting
++ To check if a number is even or odd.
++ To check if a number is a power of 2.
++ To swap two numbers without using a temporary variable.
++ To find the maximum or minimum of two numbers without using conditional statements.
++ To reverse the bits of an integer.
++ To count the number of set bits in an integer
++ To multiply or divide by 2^n using bit shifting
 
 ## How Decimal Number works:
 
