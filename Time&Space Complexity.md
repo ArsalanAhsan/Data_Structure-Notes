@@ -15,8 +15,10 @@ Q. Imagine a classroom of 100 students in which you gave your pen to one person.
 
 Here are some ways to find the pen and what the O order is.
 
-O(n2): You go and ask the first person in the class if he has the pen. Also, you ask this person about the other 99 people in the classroom if they have that pen and so on, 
+***O(n2):*** You go and ask the first person in the class if he has the pen. Also, you ask this person about the other 99 people in the classroom if they have that pen and so on, 
 This is what we call O(n2). 
-O(n): Going and asking each student individually is O(N). 
-O(log n): Now I divide the class into two groups, then ask: “Is it on the left side, or the right side of the classroom?” Then I take that group and divide it into two and ask again, and so on. Repeat the process till you are left with one student who has your pen. This is what you mean by O(log n). 
+
+***O(n):*** Going and asking each student individually is O(N). 
+
+***O(log n):*** Now I divide the class into two groups, then ask: “Is it on the left side, or the right side of the classroom?” Then I take that group and divide it into two and ask again, and so on. Repeat the process till you are left with one student who has your pen. This is what you mean by O(log n). 
 
