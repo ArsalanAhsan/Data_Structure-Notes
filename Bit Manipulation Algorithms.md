@@ -32,5 +32,4 @@ For example, the decimal number 10 is represented as 1010 in binary
 
 ### Subtraction in Binary
 
-![sub](https://github.com/ArsalanAhsan/Data_Structure-Notes/assets/49119148/981d5616-006a-47a4-ac82-57b1afa4a381)
-
+![subtraction](https://github.com/ArsalanAhsan/Data_Structure-Notes/assets/49119148/20b67a4a-24c1-46f6-86c1-7f9363d4b4a0)
