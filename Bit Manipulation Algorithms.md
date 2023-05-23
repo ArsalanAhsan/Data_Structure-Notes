@@ -29,3 +29,8 @@ For example, the decimal number 10 is represented as 1010 in binary
 ![binary-addition-rules-1623841221](https://github.com/ArsalanAhsan/Data_Structure-Notes/assets/49119148/5f1cf6e5-5fd3-48d2-a023-cb2252050e1c)
 
 ![add](https://github.com/ArsalanAhsan/Data_Structure-Notes/assets/49119148/faf8a613-0a82-4855-bbcc-8ebeed13cb40)
+
+### Subtraction in Binary
+
+![sub](https://github.com/ArsalanAhsan/Data_Structure-Notes/assets/49119148/981d5616-006a-47a4-ac82-57b1afa4a381)
+
