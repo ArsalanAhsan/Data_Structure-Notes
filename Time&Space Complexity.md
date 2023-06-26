@@ -26,5 +26,11 @@ This is what we call O(n2).
 Space complexity of an algorithm quantifies the amount of time taken by a program to run as a function of length of the input. It is directly proportional to the largest memory your program acquires at any instance during run time. 
 For example: int consumes 4 bytes of memory.
 
+Generally, when a program is under execution it uses the computer memory for THREE reasons. They are as follows...
+
+* Instruction Space: It is the amount of memory used to store compiled version of instructions.
+* Environmental Stack: It is the amount of memory used to store information of partially executed functions at the time of function call.
+* Data Space: It is the amount of memory used to store all the variables and constants.
+
 
 
