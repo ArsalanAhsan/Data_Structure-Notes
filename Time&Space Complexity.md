@@ -32,5 +32,22 @@ Generally, when a program is under execution it uses the computer memory for THR
 * Environmental Stack: It is the amount of memory used to store information of partially executed functions at the time of function call.
 * Data Space: It is the amount of memory used to store all the variables and constants.
 
+To calculate the space complexity, we must know the memory required to store different datatype values (according to the compiler). For example, the C Programming Language compiler requires the following...
+
+1. 2 bytes to store Integer value.
+2. 4 bytes to store Floating Point value.
+3. 1 byte to store Character value.
+4. 6 (OR) 8 bytes to store double value.
+Consider the following piece of code...
+## Example:
+int square(int a)
+{
+	return a*a;
+}
+
+In the above piece of code, it requires 2 bytes of memory to store variable 'a' and another 2 bytes of memory is used for return value.
+
+That means, totally it requires 4 bytes of memory to complete its execution. And this 4 bytes of memory is fixed for any input value of 'a'. This space complexity is said to be Constant Space Complexity.
+
 
 
