@@ -1,7 +1,7 @@
 public class Factorial {
 
     public static int calfactorial(int n){
-        if (n == 1 || n == 1){
+        if (n == 1 || n == 0){
             return 1;
         }
        int fact_nm1 =  calfactorial(n-1);
