@@ -11,6 +11,7 @@ public class SumofNnumbers {
         System.out.println(i);
     }
     public static void main (String[] args){
+
         printSum(1,5,0);
     }
 }
